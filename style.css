@@ -67,6 +67,7 @@ button-1{
   justify-content: center;
   border-radius: 10px;
   border: 0;
+  opacity: inherit;
 }
 
 .part2{
@@ -136,7 +137,6 @@ button-2{
   border-style: solid;
   justify-content: center;
   align-items: center;
-  cursor: pointer;
 
 }
 .footer{
